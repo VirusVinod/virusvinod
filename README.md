@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-**VirusVinod/virusvinod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About Me
+Automation and Manual QA with 4+ years of experience managing automation projects and software testing throughout the testing phase Proven expertise in ensuring software performance and reliability by conducting quality assurance and automated testing, including implementation of test plans, bug tracking & Software test case development & execution. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
