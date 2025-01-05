@@ -5,6 +5,6 @@ My name is Vinod Singh, and I have 4.2 years of experience as a QA Engineer. I s
 
 ## Skills
 
- ##Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design & Planning, Bug Tracking & Defect Management, Documentation & Reporting, Functional Testing, Test Scenario, Unit & System Testing, Cross-functional Coordination, Analytical Skills, Time Management
+Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design & Planning, Bug Tracking & Defect Management, Documentation & Reporting, Functional Testing, Test Scenario, Unit & System Testing, Cross-functional Coordination, Analytical Skills, Time Management
 
- ##Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, Jenkins, Git, Clickup, Asana, Jira, Git, Postman, API Testing, Angular, JavaScript, Typescript, NodeJS
+ Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, Jenkins, Git, Clickup, Asana, Jira, Git, Postman, API Testing, Angular, JavaScript, Typescript, NodeJS
