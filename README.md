@@ -1,7 +1,7 @@
 ## About Me 👋
 
 
-My name is Vinod Singh, and I have 4.2 years of experience as a QA Engineer. I specialize in ensuring software quality and efficiency throughout the development lifecycle. My experience includes extensive work in testing web and mobile applications, designing and executing test cases, running automation scripts, and collaborating with cross-functional teams to deliver flawless and user-friendly software solutions.
+My name is Vinod Singh, and I have 4.4 years of experience as a QA Engineer. I specialize in ensuring software quality and efficiency throughout the development lifecycle. My experience includes extensive work in testing web and mobile applications, designing and executing test cases, running automation scripts, and collaborating with cross-functional teams to deliver flawless and user-friendly software solutions.
 
 ## Skills
 
