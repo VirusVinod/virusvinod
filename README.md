@@ -22,7 +22,7 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
 <p>
   <a href="https://linkedin.com/in/virusvinod" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>&nbsp&nbsp
+  </a> &nbsp
   <a href="https://instagram.com/virusvinod/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
