@@ -26,3 +26,21 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
+
+### 💻 Workspace 
+<img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=virusvinod&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=virusvinod&theme=tokyonight" alt="GitHub Streak" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virusvinod&layout=compact&theme=tokyonight&hide=html,css,shell,scss" alt="Top Languages" width="400" />
+    </td>
+  </tr>
+</table>
