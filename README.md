@@ -1,13 +1,14 @@
 <h2 align="center">Hi 👋, I'm Vinod Singh</h2>
 <h3 align="center">Software QA Engineer | Automation</h3>
 
-
 ---
 
 ## About Me 👋
 
 
 My name is Vinod Singh, and I have 4.4 years of experience as a QA Engineer. I specialize in ensuring software quality and efficiency throughout the development lifecycle. My experience includes extensive work in testing web and mobile applications, designing and executing test cases, running automation scripts, and collaborating with cross-functional teams to deliver flawless and user-friendly software solutions.
+
+- 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 9801839391
 
 ## Skills
 
