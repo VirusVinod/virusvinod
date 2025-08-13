@@ -8,7 +8,6 @@
 
 My name is Vinod Singh, and I have 4.4 years of experience as a QA Engineer. I specialize in ensuring software quality and efficiency throughout the development lifecycle. My experience includes extensive work in testing web and mobile applications, designing and executing test cases, running automation scripts, and collaborating with cross-functional teams to deliver flawless and user-friendly software solutions.
 
-- 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 9801839391
 
 ## Skills
 
@@ -16,6 +15,7 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
 
  Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, Jenkins, Git, Clickup, Asana, Jira, Git, Postman, API Testing, Angular, JavaScript, Typescript, NodeJS
 
+### 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 9801839391
 
 ### 🌐 Connect with Me
 
@@ -27,7 +27,6 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
 
 ### 💻 Workspace 
 <img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
