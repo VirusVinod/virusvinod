@@ -15,7 +15,7 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
 
  Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, Jenkins, Git, Clickup, Asana, Jira, Git, Postman, API Testing, Angular, JavaScript, Typescript, NodeJS
 
-### 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 9801839391
+### 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 98018-39391
 
 ### 🌐 Connect with Me
 
