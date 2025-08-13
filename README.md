@@ -1,3 +1,9 @@
+<h2 align="center">Hi 👋, I'm Vinod Singh</h2>
+<h3 align="center">Software QA Engineer | Automation</h3>
+
+
+---
+
 ## About Me 👋
 
 
