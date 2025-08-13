@@ -43,5 +43,5 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
   </tr>
 </table>
 
-// [![Vinod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virusvinod&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Virusvinod) 
+<!-- [![Vinod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=virusvinod&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Virusvinod) -->
 
