@@ -17,7 +17,7 @@ Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, J
 
 ### 📫 **Reach Me At:** Vinodkumarsingh680@gmail.com | +91 98018-39391
 
-### 🌐 Connect with Me
+<!-- ### 🌐 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/virusvinod" target="_blank">
@@ -26,7 +26,7 @@ Technical: Core Java, Selenium, Framework development, Cucumber, Maven, JUnit, J
   <a href="https://instagram.com/virusvinod/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ### 💻 Workspace 
 <table align="center">
