@@ -29,8 +29,6 @@ Core: Manual Testing, Automation Testing, Regression Testing, Test Case Design &
 </p>
 
 ### 💻 Workspace 
-<img height="30" src="https://img.shields.io/badge/Macbook-Air_M2-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
-
 <table align="center">
   <tr>
     <td align="center">
